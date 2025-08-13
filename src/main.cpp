@@ -7,6 +7,7 @@
 #include <string>
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
+#include "space_entities.h"
 
 struct Texture {
     GLuint id = 0;
